@@ -69,8 +69,7 @@ This project implements a **Support Vector Machine (SVM)** classifier to predict
 ---
 
 ## Author
-- Your Name  
-- Project submitted as part of ML coursework / mini project
+- Teesta Sarkar
 
 ---
 
